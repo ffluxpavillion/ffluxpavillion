@@ -9,7 +9,7 @@
 
 - 📚 I have an educational background in: **Marketing Management**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **AWS**
 
 <br />
 <a href="https://linkedin.com/in/arjunsahjpaul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjunsahjpaul" height="30" width="40" /></a>
